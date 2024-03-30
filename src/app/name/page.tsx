@@ -6,7 +6,7 @@ export default function Name() {
   const router = useRouter();
   return (
     <div>
-      My name is waqar.
+      My name is Arslan.
       <br />
       <button type="button" onClick={() => router.push("/name/address")}>
         Go to Address
